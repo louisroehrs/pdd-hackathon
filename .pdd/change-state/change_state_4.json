@@ -1,0 +1,19 @@
+{
+  "step_outputs": {
+    "1": "FAILED: All agent providers failed",
+    "2": "FAILED: All agent providers failed",
+    "3": "FAILED: All agent providers failed",
+    "4": "FAILED: All agent providers failed",
+    "5": "FAILED: All agent providers failed",
+    "6": "FAILED: All agent providers failed",
+    "7": "FAILED: All agent providers failed",
+    "8": "FAILED: All agent providers failed",
+    "9": "All agent providers failed"
+  },
+  "issue_updated_at": "",
+  "total_cost": 0.0,
+  "model_used": "",
+  "github_comment_id": 3829984201,
+  "worktree_path": "/tmp/pdd_job_3e8MSekfWdxEG98yqJdB_b_5pmzre/.pdd/worktrees/change-issue-4",
+  "last_completed_step": 8
+}
